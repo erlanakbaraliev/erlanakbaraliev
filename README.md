@@ -6,4 +6,4 @@
 - 📫 Python [FastAPI, Django ]
 - 📫 Java [ OOP, Concurrency, Maven, Tests ]
 - 📫 Javascript [ React ]
-- 😄 Databases [ MySQL, MSSQL, Postgres, MongoDB ]
+- 😄 Databases [ MySQL ]
