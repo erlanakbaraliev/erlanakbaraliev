@@ -10,5 +10,5 @@
 
 
 Plans for December
-- 👔 Todo using Reac, MySQL, FastAPI
+- 👔 Todo using React, MySQL, FastAPI
 - 🍂 Webapp using Python, Django, CI/CD, HTML, CSS
