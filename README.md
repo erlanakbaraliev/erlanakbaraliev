@@ -12,3 +12,4 @@
 Plans for December
 - 👔 Todo using React, MySQL, FastAPI
 - 🍂 Webapp using Python, Django, CI/CD, HTML, CSS
+- Daily leetcode
