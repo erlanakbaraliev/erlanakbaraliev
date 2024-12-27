@@ -11,5 +11,6 @@
 
 Plans for December
 - 👔 Todo app using React, MySQL, FastAPI
+- 👜 Dynamic Wikipedia using Python, Django, HTML, CSS, Bootstrap
 - 🍂 Dynamic Webapp using Python, Django, CI/CD, HTML, CSS
 - 🦍 Daily leetcode
