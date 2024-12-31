@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at MSCI as an Operations engineer intern
 - 🎨 I’m currently learning UI Development
 - ✍️ Languages [ Python, Java, JavaScript]
-- 🐍 Python [FastAPI, Django ]
+- 🐍 Python [FastAPI, Django, Socket ]
 - 🦖 Java [ Spring, OOP, Concurrency, Maven, Tests ]
 - 🕵️‍♂️ Javascript [ React ]
 - 🫏 Databases [ MySQL ]
