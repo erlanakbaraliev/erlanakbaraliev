@@ -9,8 +9,11 @@
 - 🫏 Databases [ MySQL ]
 
 
-Plans for December
+Plans for January
+- ✨ Achieve my dream
+- 🎞️ Master React basics (FreeCodeCamp 9h)
+- 🌥️ Weather app using React Typescript
+- 🍇 Food Recipe App using React Typescript
 - 👔 Todo app using React, MySQL, FastAPI
-- 👜 Dynamic Wikipedia using Python, Django, HTML, CSS, Bootstrap
-- 🍂 Dynamic Webapp using Python, Django, CI/CD, HTML, CSS
+- 🍂 Ecommerce webapp using Django, SQL
 - 🦍 Daily leetcode
