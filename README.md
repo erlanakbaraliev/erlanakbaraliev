@@ -17,7 +17,3 @@ Plans for January
 - 👔 Todo app using React, MySQL, FastAPI
 - 🍂 Ecommerce webapp using Django, SQL
 - 🦍 Daily leetcode
-
-
-Process:
-- 8:00 - 22:00
