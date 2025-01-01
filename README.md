@@ -5,7 +5,7 @@
   - 💻 at Google Developers Club as a Tech Lead
 - 🎨 I’m currently learning UI Development
 - ✍️ Languages [ Python, Java, JavaScript]
-- 🐍 Python [FastAPI, Django, Socket ]
+- 🐍 Python [FastAPI, Django ]
 - 🦖 Java [ Spring, OOP, Concurrency, Maven, Tests ]
 - 🕵️‍♂️ TypeScript [ React ]
 - 🫏 Databases [ MySQL ]
