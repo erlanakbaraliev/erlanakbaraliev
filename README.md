@@ -11,8 +11,6 @@
 
 Plans for January
 - ✨ Achieve my dream
-- 🎞️ Master React basics (FreeCodeCamp 9h)
-- 🌥️ Weather app using React Typescript
 - 🍂 Ecommerce webapp using Django, SQL (Databases. SQL. Tables. Models. Relationships. Migrations. Django Admin)
 - 🙇‍♂️ User Interfaces using React (User Interfaces. Single-Page Applications. Infinite Scroll. Animation. React)
 - 🫏 Social Network (Test-Driven Development. Unit Testing. Django Testing. Selenium. CI/CD. GitHub Actions. Docker.)
