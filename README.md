@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at MSCI as an Operations engineer intern and Google Developers Club Tech Lead
+- 🔭 I’m currently working
+- - at MSCI as an Operations engineer intern
+  -  Google Developers Club Tech Lead
 - 🎨 I’m currently learning UI Development
 - ✍️ Languages [ Python, Java, JavaScript]
 - 🐍 Python [FastAPI, Django, Socket ]
