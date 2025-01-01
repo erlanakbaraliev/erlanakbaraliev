@@ -7,7 +7,7 @@
 - ✍️ Languages [ Python, Java, JavaScript]
 - 🐍 Python [FastAPI, Django, Socket ]
 - 🦖 Java [ Spring, OOP, Concurrency, Maven, Tests ]
-- 🕵️‍♂️ Javascript [ React ]
+- 🕵️‍♂️ TypeScript [ React ]
 - 🫏 Databases [ MySQL ]
 
 
