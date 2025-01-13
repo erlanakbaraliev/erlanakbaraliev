@@ -14,9 +14,9 @@
 Plans for January
 - ✨ Achieve my dream
 - 🦍 Daily leetcode
-- 🍂 Ecommerce webapp using Django, SQL, HTML, CSS
+- 🍂 Ecommerce webapp using Django, SQL, HTML, CSS (Completed✅)
   - (Databases. SQL. Tables. Models. Relationships. Migrations. Django Admin) Deadline: Jan-12
-- 🙇‍♂️ Mail application using Django, JS React, SQL, HTML, CSS
+- 🙇‍♂️ Mail application using Django, JS React, SQL, HTML, CSS (In progress🔃)
   - (User Interfaces. Single-Page Applications. Infinite Scroll. Animation. React) Deadline: Jan-19
 - 🫏 Social Network like Twitter
   - (Test-Driven Development. Unit Testing. Django Testing. Selenium. CI/CD. GitHub Actions. Docker.) Jan-31
