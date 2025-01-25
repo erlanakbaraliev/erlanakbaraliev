@@ -18,5 +18,5 @@ Plans for January
   - (Databases. SQL. Tables. Models. Relationships. Migrations. Django Admin) Deadline: Jan-12
 - 🙇‍♂️ Mail application using Django, JS React, SQL, HTML, CSS (Completed✅)
   - (User Interfaces. Single-Page Applications. Infinite Scroll. Animation. React) Deadline: Jan-19
-- 🫏 Social Network like Twitter
+- 🫏 Social Network like Twitter (In progress🔃)
   - (Test-Driven Development. Unit Testing. Django Testing. Selenium. CI/CD. GitHub Actions. Docker.) Jan-31
