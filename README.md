@@ -12,7 +12,6 @@
 
 
 Plans for January
-- ✨ Achieve my dream
 - 🦍 Daily leetcode
 - 🍂 Ecommerce webapp using Django, SQL, HTML, CSS (Completed✅)
   - (Databases. SQL. Tables. Models. Relationships. Migrations. Django Admin) Deadline: Jan-12
