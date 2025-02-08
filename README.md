@@ -4,11 +4,11 @@
   - 🧩 at MSCI as an Operations engineer intern
   - 💻 at Google Developers Club as a Tech Lead
 - 🎨 I’m currently learning UI Development
-- ✍️ Languages [ Python, Java, JavaScript]
-- 🐍 Python [FastAPI, Django ]
-- 🦖 Java [ Spring, OOP, Concurrency, Maven, Tests ]
+- ✍️ Languages [ Python, JavaScript]
+- 🐍 Python [ Django ]
 - 🕵️‍♂️ Javascript [ React ]
-- 🫏 Databases [ MySQL ]
+- 🫏 Databases [ PostgreSQL, MySQL ]
+- 🦖 Docker
 
 
 Plans for January
