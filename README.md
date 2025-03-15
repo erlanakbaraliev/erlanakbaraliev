@@ -12,4 +12,4 @@
 Plans for March
 - 🦍 Daily leetcode
 - 🤡 Social Network like Twitter (In progress🔃)
-  - (Single Page Application, Test-Driven Development. Unit Testing. Django Testing. Selenium. CI/CD. GitHub Actions. Docker.)
+  - (Test-Driven Development. Unit Testing. Django Testing. Selenium. CI/CD. GitHub Actions. Docker.)
