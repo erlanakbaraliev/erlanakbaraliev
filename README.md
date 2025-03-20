@@ -13,4 +13,5 @@ Plans for March
 - 🦍 Daily leetcode
 - 🤡 Social Network like Twitter (In progress🔃)
   - (Test-Driven Development. Unit Testing. Django Testing. Selenium. CI/CD. GitHub Actions. Docker.)
-- 🏹 Game Development (GitLab, Unity, Team project)
+- 🏹 Game Development (GitLab, Unity, Team project) (In progress🔃)
+ 
