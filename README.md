@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working
+  - 🫀 at MSCI as a UI Developer
   - 🧩 at MSCI as an Operations engineer intern
   - 💻 at Google Developers Club as a Tech Lead
 - 🎨 I’m currently learning
