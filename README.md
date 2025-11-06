@@ -3,8 +3,7 @@
 - 🔭 I'm a student developer and worked at:
   - 🫀 MSCI as a Django developer and a Devops engineer
   - 💻 Google Developers Club as a Tech Lead organizing tech events
-- 🎨 I’m currently learning
-  - Enterprise level web development
-
-To do by the 1st of October
-- Post a video about Docker, Django setup to my YouTube channel
+  - 📊 ICTBootcamp as a Data Analyst mentor
+- 🎨 I’m currently doing:
+  - Data Analysis mentorship (Databases, Pandas, Matplotlib, Power bi etc.)
+  - Creating technical posts on https://dev.to/erlan_akbar
