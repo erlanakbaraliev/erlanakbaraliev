@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I worked at:
-  - 🫀 MSCI, Django developer and a Devops engineer
-  - 💻 Google Developers Club, Tech Lead organizing tech events
-  - 📊 ICTBootcamp, Data Analyst mentor
-- 🎨 I’m currently doing:
-  - EPAM Systems, Python developer
-  - Data Analysis mentorship (Databases, Pandas, Matplotlib, Power bi etc.)
-  - Creating technical posts on https://dev.to/erlan_akbar
+* 🔭 **Experience:**
+  * 🫀 MSCI — Django Developer & DevOps Engineer
+  * 💻 Google Developers Club — Tech Lead (organized tech events)
+
+* 🎯 **Currently:**
+  * 🏢 EPAM Systems — Python Developer
+  * 📊 ICT Bootcamp — Data Analyst Mentorship (Databases, Pandas, Matplotlib, Power BI)
+  * ✍️ Writing technical posts on: [https://dev.to/erlan_akbar](https://dev.to/erlan_akbar)
