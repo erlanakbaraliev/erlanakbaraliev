@@ -5,5 +5,6 @@
   - 💻 Google Developers Club, Tech Lead organizing tech events
   - 📊 ICTBootcamp, Data Analyst mentor
 - 🎨 I’m currently doing:
+  - EPAM Systems, Python developer
   - Data Analysis mentorship (Databases, Pandas, Matplotlib, Power bi etc.)
   - Creating technical posts on https://dev.to/erlan_akbar
